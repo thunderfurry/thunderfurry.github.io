@@ -1,13 +1,13 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: thunderfurri
+description: A dumb gamedev
+taglong: A dumb gamedev
+tagshort: dumbass
+url: https://thunderfurry.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/thunderfurry/thunderfurry.github.io
 
 # author settings
 
